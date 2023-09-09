@@ -1,0 +1,16 @@
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\bin\Debug\EjercicioPeliculas.exe.config
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\bin\Debug\EjercicioPeliculas.exe
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\bin\Debug\EjercicioPeliculas.pdb
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.csproj.AssemblyReference.cache
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.csproj.SuggestedBindingRedirects.cache
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.FormInicio.resources
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.FormRegistroPelicula.resources
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.FormRegistroDirector.resources
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.FormReporte1.resources
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.FormReporte2.resources
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.FormReporte3.resources
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.Properties.Resources.resources
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.csproj.GenerateResource.cache
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.csproj.CoreCompileInputs.cache
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.exe
+D:\Archivos\Huevon\EjercicioMultilistas\EjercicioPeliculas\obj\Debug\EjercicioPeliculas.pdb
